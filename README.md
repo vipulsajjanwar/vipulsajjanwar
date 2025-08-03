@@ -75,7 +75,7 @@ Team Leadership · Communication · Problem Solving · Design Thinking
 If you like my work and would like to support me:
 
 <p align="center">
-  <a href="buymeacoffee.com/vipulsajjaq" target="_blank">
+  <a href="https://buymeacoffee.com/vipulsajjaq" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
 </p>
