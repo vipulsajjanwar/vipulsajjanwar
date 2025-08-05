@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="ai-hologram-ui" />
+  <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="ai-hologram-ui" />
 </p>
 
 ---
