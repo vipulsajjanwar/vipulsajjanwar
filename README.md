@@ -96,5 +96,6 @@ If you like my work and would like to support me:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=435&lines=Thanks+for+visiting+my+profile!;Keep+Automating+%F0%9F%9A%80" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=%F0%9F%A4%96+AI+Mind+with+a+Humble+Heart+%F0%9F%99%8F;%F0%9F%A7%A0+Keep+Learning+and+Do+Automation+%F0%9F%92%BB%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </p>
