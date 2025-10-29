@@ -43,7 +43,8 @@ I'm a meticulous and passionate **Test Automation Engineer** with 6+ years of ex
 🚀 **AutoVerse** – A scalable test automation framework  
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-AutoVerse-blue?style=for-the-badge&logo=github)](https://github.com/vipulsajjanwar/AutoVerse)
-[![GitHub Repo]((https://img.shields.io/badge/Repo-AutoVerse-blue?style=for-the-badge&logo=github))](https://github.com/vipulsajjanwar/AutoGenAI)
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-AutoGenAI-blue?style=for-the-badge&logo=github)](https://github.com/vipulsajjanwar/AutoGenAI)
 
 🧪 More repositories coming soon... Stay tuned!
 
