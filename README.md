@@ -89,10 +89,10 @@ If you like my work and would like to support me:
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vipulsajjanwar/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vipulsajjanwar07/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/vipulsajjanwar"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-  <a href="mailto:vipulsajjanwar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@vipulsajjanwar"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
+  <a href="mailto:vipulsajjanwar144@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@vipulsajjanwar144"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
 </p>
 
 ---
