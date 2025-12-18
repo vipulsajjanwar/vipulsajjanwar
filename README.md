@@ -23,15 +23,26 @@ I'm a meticulous and passionate **Test Automation Engineer** with 6+ years of ex
 
 #### 🧰 Technical Stack
 <p align="left">
+  <!-- Language & Frameworks -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-%23007396.svg?style=for-the-badge&logo=testng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Testing-%23007ACC.svg?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20Assured-%2300A98F.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-%23007396.svg?style=for-the-badge&logo=testNG&logoColor=white"/>
+
+  <!-- Automation & Build -->
   <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+  <!-- CI/CD & Containers -->
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
+  <!-- API & Performance Tools -->
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Newman-00BFFF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/JMeter-%23D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+
+  <!-- Version Control & DB -->
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
@@ -45,6 +56,8 @@ I'm a meticulous and passionate **Test Automation Engineer** with 6+ years of ex
 [![GitHub Repo](https://img.shields.io/badge/Repo-AutoVerse-blue?style=for-the-badge&logo=github)](https://github.com/vipulsajjanwar/AutoVerse)
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-AutoGenAI-blue?style=for-the-badge&logo=github)](https://github.com/vipulsajjanwar/AutoGenAI)
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-RestAPITest-blue?style=for-the-badge&logo=github)](https://github.com/vipulsajjanwar/rest-api-test.git)
 
 🧪 More repositories coming soon... Stay tuned!
 
