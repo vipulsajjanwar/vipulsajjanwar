@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a meticulous and passionate **Test Automation Engineer** with 6+ years of experience in delivering high-quality, scalable automation frameworks. My expertise spans **Web, API, and Performance Testing**, with a growing interest in **AI-driven testing strategies** and **autonomous agents**.
+I'm a meticulous and passionate **Test Automation Engineer** with 7+ years of experience in delivering high-quality, scalable automation frameworks. My expertise spans **Web, API, and Performance Testing**, with a growing interest in **AI-driven testing strategies** and **autonomous agents**.
 
 - 🔭 Currently enhancing legacy frameworks by integrating modern practices like **Selenium Grid**, **Docker**, and **Jenkins**.
 - 🤖 Exploring the use of **AI agents** for autonomous testing, self-healing test scripts, and dynamic data generation.
@@ -82,8 +82,8 @@ Team Leadership · Communication · Problem Solving · Design Thinking
 
 - [📘 Building Scalable Test Automation Frameworks](https://medium.com/@vipulsajjanwar144/scalable-test-automation-framework-using-selenium-testng-jenkins-real-time-dashboards-779d747e72b6)
 - [📘 ElasticSearch & Kibana for Automation Testing](https://medium.com/@vipulsajjanwar144/introduction-to-elasticsearch-kibana-for-automation-testing-e0f9ff59c22e)
-- [🐳 Dockerizing Selenium Tests with Grid and Jenkins](https://medium.com/@vipulsajjanwar)
-- [⚙️ REST API Chain Testing Using Java & TestNG](https://medium.com/@vipulsajjanwar)
+- [🐳 Dockerizing Selenium Tests with Grid and Jenkins]([https://medium.com/@vipulsajjanwar](https://medium.com/@vipulsajjanwar144))
+- [⚙️ REST API Chain Testing Using Java & TestNG](https://medium.com/@vipulsajjanwar144/building-an-enterprise-grade-rest-assured-api-automation-framework-730f043fc1a4))
 
 ---
 
