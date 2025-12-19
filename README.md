@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Sajjanwar</h1>
-<h3 align="center">🤖 AI-Driven Test Engineer | Automation Framework Architect | Selenium Grid Expert | CI/CD with Jenkins & Docker | API & Performance Testing Specialist</h3>
+<h3 align="center">🤖 AI-Driven Test Engineer | Automation Framework Architect | Selenium Webdriver Expert | CI/CD Jenkins & Docker | API & Performance Testing Specialist</h3>
 
 
 <p align="center">
@@ -82,8 +82,8 @@ Team Leadership · Communication · Problem Solving · Design Thinking
 
 - [📘 Building Scalable Test Automation Frameworks](https://medium.com/@vipulsajjanwar144/scalable-test-automation-framework-using-selenium-testng-jenkins-real-time-dashboards-779d747e72b6)
 - [📘 ElasticSearch & Kibana for Automation Testing](https://medium.com/@vipulsajjanwar144/introduction-to-elasticsearch-kibana-for-automation-testing-e0f9ff59c22e)
-- [🐳 Dockerizing Selenium Tests with Grid and Jenkins]([https://medium.com/@vipulsajjanwar](https://medium.com/@vipulsajjanwar144))
-- [⚙️ REST API Chain Testing Using Java & TestNG](https://medium.com/@vipulsajjanwar144/building-an-enterprise-grade-rest-assured-api-automation-framework-730f043fc1a4))
+- [🐳 Dockerizing Selenium Tests with Grid and Jenkins](https://medium.com/@vipulsajjanwar144)
+- [⚙️ REST API Chain Testing Using Rest Assured & TestNG](https://medium.com/@vipulsajjanwar144/building-an-enterprise-grade-rest-assured-api-automation-framework-730f043fc1a4)
 
 ---
 
