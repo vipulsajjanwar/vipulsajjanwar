@@ -59,6 +59,8 @@ I'm a meticulous and passionate **Test Automation Engineer** with 7+ years of ex
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-RestAPITest-blue?style=for-the-badge&logo=github)](https://github.com/vipulsajjanwar/rest-api-test.git)
 
+[![GitHub Repo](https://img.shields.io/badge/Repo-DockerELK-blue?style=for-the-badge&logo=github)](https://github.com/vipulsajjanwar/dockerized-elk-stack/blob/master/README.md)
+
 🧪 More repositories coming soon... Stay tuned!
 
 ---
