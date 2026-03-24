@@ -81,7 +81,7 @@ Team Leadership · Communication · Problem Solving · Design Thinking
 ## 📰 Blogs
 
 > Check out some of my recent articles and technical write-ups:
-
+- [⚙️ Building an AI Code Review Agent for a Java Test Automation Framework](https://medium.com/@vipulsajjanwar144/building-an-ai-code-review-agent-for-a-test-automation-framework-without-breaking-the-existing-d1bd15228b58)
 - [📘 Building Scalable Test Automation Frameworks](https://medium.com/@vipulsajjanwar144/scalable-test-automation-framework-using-selenium-testng-jenkins-real-time-dashboards-779d747e72b6)
 - [📘 ElasticSearch & Kibana for Automation Testing](https://medium.com/@vipulsajjanwar144/introduction-to-elasticsearch-kibana-for-automation-testing-e0f9ff59c22e)
 - [🐳 Dockerizing Selenium Tests with Grid and Jenkins](https://medium.com/@vipulsajjanwar144)
