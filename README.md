@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Sajjanwar</h1>
-<h3 align="center">🤖 AI-SDET Test Engineer | Automation Framework Architect | Selenium Webdriver Expert | CI/CD Jenkins & Docker | API & Performance Testing Specialist</h3>
+<h3 align="center">🤖 SDET Test Engineer | Automation Framework Architect | Selenium Webdriver Expert | CI/CD Jenkins & Docker | API & Performance Testing Specialist</h3>
 
 
 <p align="center">
