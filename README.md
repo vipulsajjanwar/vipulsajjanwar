@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vipul Sajjanwar
 
-<h3 align="center">Senior Test Engineer | SDET | Automation Framework Architect | AI-Driven Quality Engineering</h3>
+<h3 align="center">Senior Test Engineer | SDET | Automation Framework Architect | AI-Assisted Quality Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1583C0&center=true&vCenter=true&width=700&lines=Building+Scalable+Automation+Frameworks;Java+%7C+Selenium+%7C+Playwright;API+%26+Database+Test+Automation;Exploring+AI+Agents+%26+MCP+Integration;Turning+Complex+Testing+Into+Smart+Automation" alt="Typing SVG" />
